@@ -5,24 +5,24 @@
 <table>
     <tbody>
     <tr>
-        <td style="text-align: end;"><strong>Location</strong></td>
-        <td style="padding-left: 10px">Russia</td>
+        <td><strong>Location</strong></td>
+        <td>Russia</td>
     </tr>
     <tr>
-        <td style="text-align: end;"><strong>Hobbies</strong></td>
-        <td style="padding-left: 10px">programming, movies</td>
+        <td><strong>Hobbies</strong></td>
+        <td>programming, movies</td>
     </tr>
     <tr>
-        <td style="text-align: end;"><strong>Codewars</strong></td>
-        <td style="padding-left: 10px"><a href="https://www.codewars.com/users/diplomatgmg">diplomatgmg</a></td>
+        <td><strong>Codewars</strong></td>
+        <td><a href="https://www.codewars.com/users/diplomatgmg">diplomatgmg</a></td>
     </tr>
     <tr>
-        <td style="text-align: end;"><strong>Telegram</strong></td>
-        <td style="padding-left: 10px"><a href="https://t.me/diplomatgmg">diplomatgmg</a></td>
+        <td><strong>Telegram</strong></td>
+        <td><a href="https://t.me/diplomatgmg">diplomatgmg</a></td>
     </tr>
     <tr>
-        <td style="text-align: end;"><strong>Email</strong></td>
-        <td style="padding-left: 10px">diplomatgmg@gmail.com</td>
+        <td><strong>Email</strong></td>
+        <td>diplomatgmg@gmail.com</td>
     </tr>
     </tbody>
 </table>
