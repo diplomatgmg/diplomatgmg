@@ -1,6 +1,6 @@
-## Hi, I'm Kirill Popov👋
+# Hi, I'm Kirill Popov👋
 
-### Junior-frontend developer, 20 y.o
+## Junior-frontend developer, 20 y.o
 
 **Location:** &ensp;&ensp;&ensp; Russia, Saint-Petersburg  
 **Hobbies:** &ensp;&ensp;&ensp;&ensp;programming, movies  
