@@ -1,5 +1,4 @@
 ## Hi, I'm Kirill Popov👋
-
 ### Junior-frontend developer, 20 y.o
 
 <table>
