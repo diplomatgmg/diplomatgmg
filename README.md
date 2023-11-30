@@ -2,32 +2,37 @@
 
 ### Junior-frontend developer, 20 y.o
 
-<table>
-    <tbody>
-    <tr>
-        <td><strong>Location</strong></td>
-        <td>Russia</td>
-    </tr>
-    <tr>
-        <td><strong>Hobbies</strong></td>
-        <td>programming, movies</td>
-    </tr>
-    <tr>
-        <td><strong>Codewars</strong></td>
-        <td><a href="https://www.codewars.com/users/diplomatgmg">diplomatgmg</a></td>
-    </tr>
-    <tr>
-        <td><strong>Telegram</strong></td>
-        <td><a href="https://t.me/diplomatgmg">diplomatgmg</a></td>
-    </tr>
-    <tr>
-        <td><strong>Email</strong></td>
-        <td>diplomatgmg@gmail.com</td>
-    </tr>
-    </tbody>
-</table>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diplomatgmg&layout=compact)
+<div style="display: flex; align-items: flex-start;">
+    <div>
+        <table>
+            <tbody>
+                <tr>
+                    <td><strong>Location</strong></td>
+                    <td>Russia</td>
+                </tr>
+                <tr>
+                    <td><strong>Hobbies</strong></td>
+                    <td>programming, movies</td>
+                </tr>
+                <tr>
+                    <td><strong>Codewars</strong></td>
+                    <td><a href="https://www.codewars.com/users/diplomatgmg">diplomatgmg</a></td>
+                </tr>
+                <tr>
+                    <td><strong>Telegram</strong></td>
+                    <td><a href="https://t.me/diplomatgmg">diplomatgmg</a></td>
+                </tr>
+                <tr>
+                    <td><strong>Email</strong></td>
+                    <td>diplomatgmg@gmail.com</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div style="padding-left: 100px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplomatgmg&layout=compact" alt="Top Langs">
+    </div>
+</div>
 
 ## Main stack:
 
