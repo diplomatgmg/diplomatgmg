@@ -2,11 +2,30 @@
 
 ### Junior-frontend developer, 20 y.o
 
-**Location:** &emsp;&ensp; Russia, Saint-Petersburg  
-**Hobbies:** &emsp;&emsp;programming, movies  
-**Codewars:** &emsp;[diplomatgmg](https://www.codewars.com/users/diplomatgmg)  
-**Telegram:** &ensp;&ensp; [diplomatgmg](https://t.me/diplomatgmg)  
-**Email:**&emsp;&emsp;&emsp; diplomatgmg@gmail.com
+<table>
+    <tbody>
+    <tr>
+        <td style="text-align: end;"><strong>Location</strong></td>
+        <td style="padding-left: 10px">Russia</td>
+    </tr>
+    <tr>
+        <td style="text-align: end;"><strong>Hobbies</strong></td>
+        <td style="padding-left: 10px">programming, movies</td>
+    </tr>
+    <tr>
+        <td style="text-align: end;"><strong>Codewars</strong></td>
+        <td style="padding-left: 10px"><a href="https://www.codewars.com/users/diplomatgmg">diplomatgmg</a></td>
+    </tr>
+    <tr>
+        <td style="text-align: end;"><strong>Telegram</strong></td>
+        <td style="padding-left: 10px"><a href="https://t.me/diplomatgmg">diplomatgmg</a></td>
+    </tr>
+    <tr>
+        <td style="text-align: end;"><strong>Email</strong></td>
+        <td style="padding-left: 10px">diplomatgmg@gmail.com</td>
+    </tr>
+    </tbody>
+</table>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diplomatgmg&layout=compact)
 
