@@ -4,8 +4,7 @@
 
 **Location:** &ensp;&ensp;&ensp; Russia, Saint-Petersburg  
 **Hobbies:** &ensp;&ensp;&ensp;&ensp;programming, movies  
-**Codewars:**
-&ensp;&ensp;[diplomatgmg](https://www.codewars.com/users/diplomatgmg)  
+**Codewars:** &ensp; &ensp;[diplomatgmg](https://www.codewars.com/users/diplomatgmg)  
 **Telegram:** &ensp;&ensp;&ensp;[diplomatgmg](https://t.me/diplomatgmg)  
 **Email:** &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; diplomatgmg@gmail.com
 
