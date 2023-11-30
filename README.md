@@ -2,7 +2,7 @@
 
 ### Junior-frontend developer, 20 y.o
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; flex-direction: row">
     <div>
         <table>
             <tbody>
@@ -29,7 +29,7 @@
             </tbody>
         </table>
     </div>
-    <div style="padding-left: 100px;">
+    <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplomatgmg&layout=compact" alt="Top Langs">
     </div>
 </div>
