@@ -45,13 +45,6 @@
 - PostgreSQL
 - SQL
 
-## Other:
-- Git
-  - Github
-- Chat GPT
-- Docker
-- Linux
-
 ## IDEs:
 - WebStorm
 - PyCharm
