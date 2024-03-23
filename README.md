@@ -23,12 +23,18 @@
 - Jest
 - Eslint
 
-
 ## Backend:
 - Python
 - Django
   - Django rest framework
   - Redis
+
+## Other:
+- Git
+  - Github
+- Chat GPT
+- Docker
+- Linux
 
 ## Testing:
 - Selenium
