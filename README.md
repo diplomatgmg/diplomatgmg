@@ -33,7 +33,7 @@
 - Django
   - Django rest framework
   - Redis
-  - Selery
+  - Celery
 
 ## Other:
 - Git
