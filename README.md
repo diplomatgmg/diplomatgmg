@@ -14,6 +14,8 @@
 - #### [TODO App](https://github.com/diplomatgmg/todo-list)
 - #### [Photo Collections](https://github.com/diplomatgmg/react-photos)
 - #### [React Quiz](https://github.com/diplomatgmg/react-quiz)
+- #### [Pizza shop](https://react-pizza-chi-eight.vercel.app/) <i>( in progress )</i>
+
 
 ## Frontend:
 - React
