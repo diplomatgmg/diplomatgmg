@@ -11,10 +11,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diplomatgmg&layout=compact)
 
 # Pet-projects
+- ### [Pizza shop](https://react-pizza-chi-eight.vercel.app/) <i>( in progress )</i>
 - #### [TODO App](https://github.com/diplomatgmg/todo-list)
 - #### [Photo Collections](https://github.com/diplomatgmg/react-photos)
 - #### [React Quiz](https://github.com/diplomatgmg/react-quiz)
-- #### [Pizza shop](https://react-pizza-chi-eight.vercel.app/) <i>( in progress )</i>
+
 
 
 ## Frontend:
