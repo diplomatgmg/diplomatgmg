@@ -54,9 +54,8 @@
 - SQL
 
 ## IDEs:
-- WebStorm
 - PyCharm
 
 ## Operating Systems:
-- Windows
+- Linux (Ubuntu)
 - MacOs
