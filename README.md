@@ -16,7 +16,7 @@
 - #### [Currency Converter](https://github.com/diplomatgmg/currency-converter)
 - #### [Photo Collections](https://github.com/diplomatgmg/react-photos)
 - #### [React Quiz](https://github.com/diplomatgmg/react-quiz), [React Quiz 2](https://github.com/diplomatgmg/madsoft-tast)
-- #### [Pizza shop](https://react-pizza-chi-eight.vercel.app/) <i>( in progress )</i>
+- #### [Pizza shop](https://github.com/diplomatgmg/react-pizza) <i>( in progress )</i>
 
 
 ## Frontend:
