@@ -23,6 +23,7 @@
 - React
   - React-redux
   - RTK-Query
+  - Redux-persist
 - JavaScript
   - Typescript
 - Bootstrap
@@ -36,8 +37,8 @@
 - Python
 - Django
   - Django rest framework
-  - Redis
-  - Celery
+- Redis
+- Celery
 
 ## Other:
 - Git
