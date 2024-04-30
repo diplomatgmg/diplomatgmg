@@ -1,6 +1,6 @@
 # Hi, I'm Kirill Popov👋
 
-## Frontend developer, 20 y.o  
+## Fullstack developer, 20 y.o  
 ![views](https://hits.dwyl.com/diplomatgmg/diplomatgmg.svg)
 
 **Location:** &ensp;&ensp;&ensp; Russia, Saint-Petersburg  
