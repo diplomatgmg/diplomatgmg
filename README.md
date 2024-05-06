@@ -45,7 +45,7 @@
 ## Other:
 - Git
   - Github
-- Chat GPT
+- Chat GPT, perplexity.ai
 - Docker
 - Linux
 
@@ -58,8 +58,8 @@
 - PostgreSQL
 - SQL
 
-## IDEs:
-- PyCharm
+## IDE:
+- Intellij Idea
 
 ## Operating Systems:
 - Linux (Ubuntu)
