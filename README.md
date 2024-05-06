@@ -37,8 +37,10 @@
 - Python
 - Django
   - Django rest framework
+- Go
 - Redis
 - Celery
+
 
 ## Other:
 - Git
