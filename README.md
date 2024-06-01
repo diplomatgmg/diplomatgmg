@@ -29,7 +29,7 @@
 </table>
 
 
-<img style="float: right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplomatgmg&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplomatgmg&layout=compact">
 
 
 # Pet-projects
