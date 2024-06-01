@@ -1,33 +1,38 @@
 <div align="center">
     <h1 style="margin-bottom: 0; content: none">Welcome 👋, I'm Kirill Popov</h1>
-    <h2 style="margin-top: 0; margin-bottom: 8px">Fullstack developer, 20 y.o  </h2>
-    <img src="https://hits.dwyl.com/diplomatgmg/diplomatgmg.svg?style=flat&show=unique">
+    <h2 style="margin-top: 0; margin-bottom: 8px">
+        Fullstack developer, 20 y.o
+        <img src="https://hits.dwyl.com/diplomatgmg/diplomatgmg.svg?style=flat&show=unique">
+    </h2>
+
 </div>
 
 
 <div align="center">
-  <table>
-      <tbody>
-          <tr>
-              <td align="center"><strong>Location</strong></td>
-              <td align="center"><strong>Hobbies</strong></td>
-              <td align="center"><strong>Codewars</strong></td>
-              <td align="center"><strong>Telegram</strong></td>
-              <td align="center"><strong>Email</strong></td>
-          </tr>
-          <tr>
-              <td align="center">Russia, Saint-Petersburg</td>
-              <td align="center">programming, movies</td>
-              <td align="center"><a href="https://www.codewars.com/users/diplomatgmg">diplomatgmg</a></td>
-              <td align="center"><a href="https://t.me/diplomatgmg">diplomatgmg</a></td>
-              <td align="center">diplomatgmg@gmail.com</td>
-          </tr>
-      </tbody>
-  </table>
+    <table>
+        <tbody>
+        <tr>
+            <td align="center"><strong>Location</strong></td>
+            <td align="center"><strong>Hobbies</strong></td>
+            <td align="center"><strong>Codewars</strong></td>
+            <td align="center"><strong>Telegram</strong></td>
+            <td align="center"><strong>Email</strong></td>
+        </tr>
+        <tr>
+            <td align="center">Russia, Saint-Petersburg</td>
+            <td align="center">programming, movies</td>
+            <td align="center"><a href="https://www.codewars.com/users/diplomatgmg">diplomatgmg</a></td>
+            <td align="center"><a href="https://t.me/diplomatgmg">diplomatgmg</a></td>
+            <td align="center">diplomatgmg@gmail.com</td>
+        </tr>
+        </tbody>
+    </table>
 </div>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplomatgmg&layout=compact">
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplomatgmg&layout=compact">
+</div>
 
 
 # Pet-projects
@@ -71,7 +76,7 @@
 </div>
 
 
-<div align="center" >
+<div align="center">
     <h2 style="margin-bottom: 12px; margin-top: 8px">Other</h2>
     <img src="https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?&logo=github&logoColor=white">
