@@ -31,19 +31,6 @@
 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplomatgmg&layout=compact">
-</div>
-
-
-# Pet-projects
-- #### [TODO App](https://github.com/diplomatgmg/todo-list)
-- #### [Currency Converter](https://github.com/diplomatgmg/currency-converter)
-- #### [Photo Collections](https://github.com/diplomatgmg/react-photos)
-- #### [React Quiz](https://github.com/diplomatgmg/react-quiz), [React Quiz 2](https://github.com/diplomatgmg/madsoft-tast)
-- #### [Pizza shop](https://github.com/diplomatgmg/react-pizza) <i>( in progress )</i>
-
-
-<div align="center">
     <h2 style="margin-bottom: 12px; margin-top: 8px">Languages</h2>
     <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-black?&logo=javascript&logoColor=F7DF1E">
@@ -101,3 +88,42 @@
     <img src="https://img.shields.io/badge/Jest-C21325?&logo=jest&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white">
 </div>
+
+
+<table>
+    <h2 align="center">PET Projects</h2>
+    <tbody>
+    <tr>
+        <td>
+            <strong>
+                <a href="https://github.com/diplomatgmg/react-pizza">Pizza shop</a>
+            </strong>
+        </td>
+        <td>
+            <strong>
+                <a href="https://github.com/diplomatgmg/todo-list">TODO App</a>
+            </strong>
+        </td>
+        <td>
+            <strong>
+                <a href="https://github.com/diplomatgmg/currency-converter">Currency Converter</a>
+            </strong>
+        </td>
+        <td>
+            <strong>
+                <a href="https://github.com/diplomatgmg/react-photos">Photo Collections</a>
+            </strong>
+        </td>
+        <td>
+            <strong>
+                <a href="https://github.com/diplomatgmg/react-quiz">React Quiz</a>
+            </strong>
+        </td>
+        <td>
+            <strong>
+                <a href="https://github.com/diplomatgmg/madsoft-tast">React Quiz 2</a>
+            </strong>
+        </td>
+    </tr>
+    </tbody>
+</table>
