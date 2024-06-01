@@ -90,40 +90,42 @@
 </div>
 
 
-<table>
+<div align="center">
     <h2 align="center">PET Projects</h2>
-    <tbody>
-    <tr>
-        <td>
-            <strong>
-                <a href="https://github.com/diplomatgmg/react-pizza">Pizza shop</a>
-            </strong>
-        </td>
-        <td>
-            <strong>
-                <a href="https://github.com/diplomatgmg/todo-list">TODO App</a>
-            </strong>
-        </td>
-        <td>
-            <strong>
-                <a href="https://github.com/diplomatgmg/currency-converter">Currency Converter</a>
-            </strong>
-        </td>
-        <td>
-            <strong>
-                <a href="https://github.com/diplomatgmg/react-photos">Photo Collections</a>
-            </strong>
-        </td>
-        <td>
-            <strong>
-                <a href="https://github.com/diplomatgmg/react-quiz">React Quiz</a>
-            </strong>
-        </td>
-        <td>
-            <strong>
-                <a href="https://github.com/diplomatgmg/madsoft-tast">React Quiz 2</a>
-            </strong>
-        </td>
-    </tr>
-    </tbody>
-</table>
+    <table>
+        <tbody>
+        <tr>
+            <td>
+                <strong>
+                    <a href="https://github.com/diplomatgmg/react-pizza">Pizza shop</a>
+                </strong>
+            </td>
+            <td>
+                <strong>
+                    <a href="https://github.com/diplomatgmg/todo-list">TODO App</a>
+                </strong>
+            </td>
+            <td>
+                <strong>
+                    <a href="https://github.com/diplomatgmg/currency-converter">Currency Converter</a>
+                </strong>
+            </td>
+            <td>
+                <strong>
+                    <a href="https://github.com/diplomatgmg/react-photos">Photo Collections</a>
+                </strong>
+            </td>
+            <td>
+                <strong>
+                    <a href="https://github.com/diplomatgmg/react-quiz">React Quiz</a>
+                </strong>
+            </td>
+            <td>
+                <strong>
+                    <a href="https://github.com/diplomatgmg/madsoft-tast">React Quiz 2</a>
+                </strong>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</div>
