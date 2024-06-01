@@ -5,24 +5,26 @@
 </div>
 
 
-<table>
-	<tbody>
-		<tr>
-			<td><strong>Location:</strong></td>
-			<td><strong>Hobbies:</strong></td>
-			<td><strong>Codewars:</strong></td>
-			<td><strong>Telegram:</strong></td>
-			<td><strong>Email:</strong></td>
-		</tr>
-		<tr>
-			<td>Russia, Saint-Petersburg</td>
-			<td>programming, movies</td>
-			<td><a href="https://www.codewars.com/users/diplomatgmg">diplomatgmg</a></td>
-			<td><a href="https://t.me/diplomatgmg">diplomatgmg</a></td>
-			<td>diplomatgmg@gmail.com</td>
-		</tr>
-	</tbody>
-</table>
+<div align="center">
+  <table>
+      <tbody>
+          <tr>
+              <td align="center"><strong>Location</strong></td>
+              <td align="center"><strong>Hobbies</strong></td>
+              <td align="center"><strong>Codewars</strong></td>
+              <td align="center"><strong>Telegram</strong></td>
+              <td align="center"><strong>Email</strong></td>
+          </tr>
+          <tr>
+              <td align="center">Russia, Saint-Petersburg</td>
+              <td align="center">programming, movies</td>
+              <td align="center"><a href="https://www.codewars.com/users/diplomatgmg">diplomatgmg</a></td>
+              <td align="center"><a href="https://t.me/diplomatgmg">diplomatgmg</a></td>
+              <td align="center">diplomatgmg@gmail.com</td>
+          </tr>
+      </tbody>
+  </table>
+</div>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplomatgmg&layout=compact">
