@@ -5,35 +5,31 @@
 </div>
 
 
-<div style="width: 100%; overflow: hidden; text-align: center;">
-    <div style="float: left; width: 45%; text-align: right;">
-        <table style="display: inline-block; text-align: left;">
-            <tr>
-                <td><strong>Location:</strong></td>
-                <td>Russia, Saint-Petersburg</td>
-            </tr>
-            <tr>
-                <td><strong>Hobbies:</strong></td>
-                <td>programming, movies</td>
-            </tr>
-            <tr>
-                <td><strong>Codewars:</strong></td>
-                <td><a href="https://www.codewars.com/users/diplomatgmg">diplomatgmg</a></td>
-            </tr>
-            <tr>
-                <td><strong>Telegram:</strong></td>
-                <td><a href="https://t.me/diplomatgmg">diplomatgmg</a></td>
-            </tr>
-            <tr>
-                <td><strong>Email:</strong></td>
-                <td>diplomatgmg@gmail.com</td>
-            </tr>
-        </table>
-    </div>
-    <div style="float: right; width: 45%; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplomatgmg&layout=compact">
-    </div>
-</div>
+<table>
+  <tr>
+    <td><strong>Location:</strong></td>
+    <td>Russia, Saint-Petersburg</td>
+  </tr>
+  <tr>
+    <td><strong>Hobbies:</strong></td>
+    <td>programming, movies</td>
+  </tr>
+  <tr>
+    <td><strong>Codewars:</strong></td>
+    <td><a href="https://www.codewars.com/users/diplomatgmg">diplomatgmg</a></td>
+  </tr>
+  <tr>
+    <td><strong>Telegram:</strong></td>
+    <td><a href="https://t.me/diplomatgmg">diplomatgmg</a></td>
+  </tr>
+  <tr>
+    <td><strong>Email:</strong></td>
+    <td>diplomatgmg@gmail.com</td>
+  </tr>
+</table>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplomatgmg&layout=compact">
 
 
 # Pet-projects
