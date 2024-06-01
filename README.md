@@ -6,26 +6,22 @@
 
 
 <table>
-  <tr>
-    <td><strong>Location:</strong></td>
-    <td>Russia, Saint-Petersburg</td>
-  </tr>
-  <tr>
-    <td><strong>Hobbies:</strong></td>
-    <td>programming, movies</td>
-  </tr>
-  <tr>
-    <td><strong>Codewars:</strong></td>
-    <td><a href="https://www.codewars.com/users/diplomatgmg">diplomatgmg</a></td>
-  </tr>
-  <tr>
-    <td><strong>Telegram:</strong></td>
-    <td><a href="https://t.me/diplomatgmg">diplomatgmg</a></td>
-  </tr>
-  <tr>
-    <td><strong>Email:</strong></td>
-    <td>diplomatgmg@gmail.com</td>
-  </tr>
+	<tbody>
+		<tr>
+			<td><strong>Location:</strong></td>
+			<td><strong>Hobbies:</strong></td>
+			<td><strong>Codewars:</strong></td>
+			<td><strong>Telegram:</strong></td>
+			<td><strong>Email:</strong></td>
+		</tr>
+		<tr>
+			<td>Russia, Saint-Petersburg</td>
+			<td>programming, movies</td>
+			<td><a href="https://www.codewars.com/users/diplomatgmg">diplomatgmg</a></td>
+			<td><a href="https://t.me/diplomatgmg">diplomatgmg</a></td>
+			<td>diplomatgmg@gmail.com</td>
+		</tr>
+	</tbody>
 </table>
 
 
