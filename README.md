@@ -1,16 +1,10 @@
 <div align="center">
-  <h1 style="margin-bottom: 0; content: none">
-
-  # Welcome 👋, I'm Kirill Popov
-
-  </h1>
-  <h2 style="margin-top: 0; margin-bottom: 8px">
-
-  ## Fullstack developer, 20 y.o
-
-  </h2>
-  <img src="https://hits.dwyl.com/diplomatgmg/diplomatgmg.svg?style=flat&show=unique">
+  
+# hello!
+## i am Kirill Popov
+  
 </div>
+
 
 
 <div align="center">
