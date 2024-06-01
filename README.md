@@ -1,10 +1,8 @@
 <div align="center">
-  
-# hello!
-## i am Kirill Popov
-  
+    <h1 style="margin-bottom: 0; content: none">Welcome 👋, I'm Kirill Popov</h1>
+    <h2 style="margin-top: 0; margin-bottom: 8px">Fullstack developer, 20 y.o  </h2>
+    <img src="https://hits.dwyl.com/diplomatgmg/diplomatgmg.svg?style=flat&show=unique">
 </div>
-
 
 
 <div align="center">
@@ -39,6 +37,7 @@
 - #### [React Quiz](https://github.com/diplomatgmg/react-quiz), [React Quiz 2](https://github.com/diplomatgmg/madsoft-tast)
 - #### [Pizza shop](https://github.com/diplomatgmg/react-pizza) <i>( in progress )</i>
 
+
 <div align="center">
     <h2 style="margin-bottom: 12px; margin-top: 8px">Languages</h2>
     <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white">
@@ -47,6 +46,7 @@
     <img src="https://img.shields.io/badge/SQL-336791?&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/Golang-00ADD8?&logo=go&logoColor=white">
 </div>
+
 
 <div align="center">
     <h2 style="margin-bottom: 12px; margin-top: 8px">Frontend</h2>
@@ -59,6 +59,7 @@
     <img src="https://img.shields.io/badge/Eslint-4B32C3?&logo=eslint&logoColor=white">
     <img src="https://img.shields.io/badge/Prettier-F7B93E?&logo=prettier&logoColor=black">
 </div>
+
 
 <div align="center">
     <h2 style="margin-bottom: 12px; margin-top: 8px">Backend</h2>
@@ -88,13 +89,10 @@
     <img src="https://img.shields.io/badge/MacOS-000000?&logo=macos&logoColor=white">
 </div>
 
+
 <div align="center">
     <h2 style="margin-bottom: 12px; margin-top: 8px">Testing</h2>
     <img src="https://img.shields.io/badge/Selenium-43B02A?&logo=selenium&logoColor=white">
     <img src="https://img.shields.io/badge/Jest-C21325?&logo=jest&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white">
 </div>
-
-
-
-
