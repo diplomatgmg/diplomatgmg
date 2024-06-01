@@ -7,6 +7,24 @@
 
 </div>
 
+<div align="center">
+    <table>
+        <tbody>
+        <tr>
+            <td align="center"><strong>Languages</strong></td>
+            <td align="center"><strong>Frontend</strong></td>
+            <td align="center"><strong>Backend</strong></td>
+        </tr>
+        <tr>
+            <td>&ensp;&ensp;<img src="https://skillicons.dev/icons?i=python,js,ts,postgres,go">&ensp;&ensp;</td>
+            <td>&ensp;&ensp;<img src="https://skillicons.dev/icons?i=react,redux,html,css,bootstrap">&ensp;&ensp;</td>
+            <td>&ensp;&ensp;<img src="https://skillicons.dev/icons?i=django,docker,redis,postgres">&ensp;&ensp;</td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+
+<br>
 
 <div align="center">
     <table>
@@ -25,40 +43,6 @@
         </tr>
         </tbody>
     </table>
-</div>
-
-<br>
-
-<div align="center">
-    <h1>Languages</h2>
-    <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-black?&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/SQL-336791?&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/Golang-00ADD8?&logo=go&logoColor=white">
-</div>
-
-
-<div align="center">
-    <h1>Frontend</h2>
-    <img src="https://img.shields.io/badge/React-61DAFB?&logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/Redux_/_RTK_Query-764ABC?&logo=redux&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML-white?&logo=html5&logoColor=FF6C37">
-    <img src="https://img.shields.io/badge/CSS_/_SCSS-white?&logo=css3&logoColor=FF6C37">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/Styled_components-black?&logo=styledcomponents&logoColor=white">
-    <img src="https://img.shields.io/badge/Eslint-4B32C3?&logo=eslint&logoColor=white">
-    <img src="https://img.shields.io/badge/Prettier-F7B93E?&logo=prettier&logoColor=black">
-</div>
-
-
-<div align="center">
-    <h1>Backend</h2>
-    <img src="https://img.shields.io/badge/Django_/_DRF-092E20?&logo=django&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Redis-DC382D?&logo=redis&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/Celery-37814A?&logo=celery&logoColor=white">
 </div>
 
 <br>
@@ -96,35 +80,47 @@
     <table>
         <tbody>
         <tr>
-            <td>
-                <strong>
+            <td align="center">
+                <h3>
                     <a href="https://github.com/diplomatgmg/react-pizza">Pizza shop</a>
-                </strong>
+                </h3>
             </td>
-            <td>
-                <strong>
+            <td align="center">
+                <h3>
                     <a href="https://github.com/diplomatgmg/todo-list">TODO App</a>
-                </strong>
+                </h3>
             </td>
-            <td>
-                <strong>
+            <td align="center">
+                <h3>
                     <a href="https://github.com/diplomatgmg/currency-converter">Currency Converter</a>
-                </strong>
+                </h3>
             </td>
-            <td>
-                <strong>
+            <td align="center">
+                <h3>
                     <a href="https://github.com/diplomatgmg/react-photos">Photo Collections</a>
-                </strong>
+                </h3>
             </td>
-            <td>
-                <strong>
+            <td align="center">
+                <h3>
                     <a href="https://github.com/diplomatgmg/react-quiz">React Quiz</a>
-                </strong>
+                </h3>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://github.com/diplomatgmg/react-pizza/blob/main/preview.png?raw=true">
             </td>
             <td>
-                <strong>
-                    <a href="https://github.com/diplomatgmg/madsoft-tast">React Quiz 2</a>
-                </strong>
+                <img src="https://github.com/diplomatgmg/todo-list/blob/main/public/preview.png?raw=true">
+            </td>
+            <td>
+                <img src="https://github.com/diplomatgmg/currency-converter/blob/main/public/preview.png?raw=true">
+            </td>
+            <td>
+                <img src="https://github.com/diplomatgmg/react-photos/blob/main/public/preview.png?raw=true">
+            </td>
+            <td>
+                <img src="https://github.com/diplomatgmg/react-quiz/blob/main/public/preview.jpg?raw=true">
             </td>
         </tr>
         </tbody>
