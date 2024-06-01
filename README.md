@@ -1,6 +1,6 @@
 <div align="center">
-    <h1 style="margin-bottom: 0; content: none">Welcome 👋, I'm Kirill Popov</h1>
-    <h2 style="margin-top: 0; margin-bottom: 8px">
+    <h1>Welcome 👋, I'm Kirill Popov</h1>
+    <h2>
         Fullstack developer, 20 y.o
         <img src="https://hits.dwyl.com/diplomatgmg/diplomatgmg.svg?style=flat&show=unique">
     </h2>
@@ -20,16 +20,17 @@
         <tr>
             <td align="center">Russia, Saint-Petersburg</td>
             <td align="center"><a href="https://www.codewars.com/users/diplomatgmg">diplomatgmg</a></td>
-            <td align="center"><a href="https://t.me/diplomatgmg">diplomatgmg</a></td>
+            <td align="center"><a href="https://t.me/diplomatgmg">@diplomatgmg</a></td>
             <td align="center">diplomatgmg@gmail.com</td>
         </tr>
         </tbody>
     </table>
 </div>
 
+<br>
 
-<div align="center" style="padding-top: 96px">
-    <h2 style="margin-bottom: 12px; margin-top: 8px">Languages</h2>
+<div align="center">
+    <h1>Languages</h2>
     <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-black?&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?&logo=typescript&logoColor=white">
@@ -39,7 +40,7 @@
 
 
 <div align="center">
-    <h2 style="margin-bottom: 12px; margin-top: 8px">Frontend</h2>
+    <h1>Frontend</h2>
     <img src="https://img.shields.io/badge/React-61DAFB?&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/Redux_/_RTK_Query-764ABC?&logo=redux&logoColor=white">
     <img src="https://img.shields.io/badge/HTML-white?&logo=html5&logoColor=FF6C37">
@@ -52,7 +53,7 @@
 
 
 <div align="center">
-    <h2 style="margin-bottom: 12px; margin-top: 8px">Backend</h2>
+    <h1>Backend</h2>
     <img src="https://img.shields.io/badge/Django_/_DRF-092E20?&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-DC382D?&logo=redis&logoColor=white">
@@ -60,9 +61,10 @@
     <img src="https://img.shields.io/badge/Celery-37814A?&logo=celery&logoColor=white">
 </div>
 
+<br>
 
 <div align="center">
-    <h2 style="margin-bottom: 12px; margin-top: 8px">Other</h2>
+    <h2>Other</h2>
     <img src="https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/ChatGPT-white?&logo=openai&logoColor=black">
@@ -73,7 +75,7 @@
 
 
 <div align="center">
-    <h2 style="margin-bottom: 12px; margin-top: 8px">OS</h2>
+    <h2>OS</h2>
     <img src="https://img.shields.io/badge/Linux-white?&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white">
     <img src="https://img.shields.io/badge/MacOS-000000?&logo=macos&logoColor=white">
@@ -81,14 +83,15 @@
 
 
 <div align="center">
-    <h2 style="margin-bottom: 12px; margin-top: 8px">Testing</h2>
+    <h2>Testing</h2>
     <img src="https://img.shields.io/badge/Selenium-43B02A?&logo=selenium&logoColor=white">
     <img src="https://img.shields.io/badge/Jest-C21325?&logo=jest&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white">
 </div>
 
+<br>
 
-<div align="center" style="margin-top: 48px">
+<div align="center">
     <h2 align="center">PET Projects</h2>
     <table>
         <tbody>
