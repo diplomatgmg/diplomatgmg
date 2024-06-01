@@ -28,7 +28,7 @@
 </div>
 
 
-<div align="center" style="margin-top: 48px">
+<div align="center" style="padding-top: 96px">
     <h2 style="margin-bottom: 12px; margin-top: 8px">Languages</h2>
     <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-black?&logo=javascript&logoColor=F7DF1E">
