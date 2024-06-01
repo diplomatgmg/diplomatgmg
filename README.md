@@ -13,14 +13,12 @@
         <tbody>
         <tr>
             <td align="center"><strong>Location</strong></td>
-            <td align="center"><strong>Hobbies</strong></td>
             <td align="center"><strong>Codewars</strong></td>
             <td align="center"><strong>Telegram</strong></td>
             <td align="center"><strong>Email</strong></td>
         </tr>
         <tr>
             <td align="center">Russia, Saint-Petersburg</td>
-            <td align="center">programming, movies</td>
             <td align="center"><a href="https://www.codewars.com/users/diplomatgmg">diplomatgmg</a></td>
             <td align="center"><a href="https://t.me/diplomatgmg">diplomatgmg</a></td>
             <td align="center">diplomatgmg@gmail.com</td>
@@ -30,7 +28,7 @@
 </div>
 
 
-<div align="center">
+<div align="center" style="margin-top: 48px">
     <h2 style="margin-bottom: 12px; margin-top: 8px">Languages</h2>
     <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-black?&logo=javascript&logoColor=F7DF1E">
@@ -90,7 +88,7 @@
 </div>
 
 
-<div align="center">
+<div align="center" style="margin-top: 48px">
     <h2 align="center">PET Projects</h2>
     <table>
         <tbody>
