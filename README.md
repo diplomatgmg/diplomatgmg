@@ -82,7 +82,7 @@
         <tr>
             <td align="center">
                 <h3>
-                    <a href="https://github.com/diplomatgmg/react-pizza">Pizza shop</a>
+                    <a href="https://github.com/diplomatgmg/fullstack-pizza">Pizza shop</a>
                 </h3>
             </td>
             <td align="center">
@@ -108,7 +108,7 @@
         </tr>
         <tr>
             <td>
-                <img src="https://github.com/diplomatgmg/react-pizza/blob/main/preview.png?raw=true">
+                <img src="https://github.com/diplomatgmg/fullstack-pizza/blob/main/preview.png?raw=true">
             </td>
             <td>
                 <img src="https://github.com/diplomatgmg/todo-list/blob/main/public/preview.png?raw=true">
