@@ -18,7 +18,7 @@
         <tr>
             <td>&ensp;&ensp;<img src="https://skillicons.dev/icons?i=python,js,ts,postgres,go">&ensp;&ensp;</td>
             <td>&ensp;&ensp;<img src="https://skillicons.dev/icons?i=react,redux,html,css,bootstrap">&ensp;&ensp;</td>
-            <td>&ensp;&ensp;<img src="https://skillicons.dev/icons?i=django,docker,redis,postgres">&ensp;&ensp;</td>
+            <td>&ensp;&ensp;<img src="https://skillicons.dev/icons?i=django,docker,nginx,redis,postgres">&ensp;&ensp;</td>
         </tr>
         </tbody>
     </table>
@@ -95,16 +95,6 @@
                     <a href="https://github.com/diplomatgmg/currency-converter">Currency Converter</a>
                 </h3>
             </td>
-            <td align="center">
-                <h3>
-                    <a href="https://github.com/diplomatgmg/react-photos">Photo Collections</a>
-                </h3>
-            </td>
-            <td align="center">
-                <h3>
-                    <a href="https://github.com/diplomatgmg/react-quiz">React Quiz</a>
-                </h3>
-            </td>
         </tr>
         <tr>
             <td>
@@ -115,12 +105,6 @@
             </td>
             <td>
                 <img src="https://github.com/diplomatgmg/currency-converter/blob/main/public/preview.png?raw=true">
-            </td>
-            <td>
-                <img src="https://github.com/diplomatgmg/react-photos/blob/main/public/preview.png?raw=true">
-            </td>
-            <td>
-                <img src="https://github.com/diplomatgmg/react-quiz/blob/main/public/preview.jpg?raw=true">
             </td>
         </tr>
         </tbody>
