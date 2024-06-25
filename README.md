@@ -110,3 +110,7 @@
         </tbody>
     </table>
 </div>
+
+Language usage             |  Coding activity
+:-------------------------:|:-------------------------:
+![](https://wakatime.com/share/@018edcf0-2b06-4a99-805c-3bc4df0185a4/a25b88b2-59dd-4eec-ada5-eb0e7e0a91df.png)  |  ![](https://wakatime.com/share/@018edcf0-2b06-4a99-805c-3bc4df0185a4/a804701e-5448-4194-ba99-7e2c73e21b95.png)
