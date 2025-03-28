@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Welcome 👋, I'm Kirill Popov</h1>
     <h2>
-        Fullstack developer, 20 y.o
+        Fullstack developer, 21 y.o
         <img src="https://wakatime.com/badge/user/018edcf0-2b06-4a99-805c-3bc4df0185a4.svg">
     </h2>
 
