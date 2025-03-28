@@ -46,8 +46,6 @@
     </table>
 </div>
 
-<br>
-
 <div align="center">
     <h2>OS</h2>
     <img src="https://img.shields.io/badge/Linux-white?&logo=linux&logoColor=black">
