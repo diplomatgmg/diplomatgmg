@@ -2,7 +2,6 @@
     <h1>Welcome 👋, I'm Kirill Popov</h1>
     <h2>
         Fullstack developer, 21 y.o
-        <img src="https://wakatime.com/badge/user/018edcf0-2b06-4a99-805c-3bc4df0185a4.svg">
     </h2>
 
 </div>
@@ -52,9 +51,3 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white">
     <img src="https://img.shields.io/badge/MacOS-000000?&logo=macos&logoColor=white">
 </div>
-
-<br>
-
-Language usage             |  Coding activity
-:-------------------------:|:-------------------------:
-![](https://wakatime.com/share/@018edcf0-2b06-4a99-805c-3bc4df0185a4/a25b88b2-59dd-4eec-ada5-eb0e7e0a91df.png)  |  ![](https://wakatime.com/share/@018edcf0-2b06-4a99-805c-3bc4df0185a4/a804701e-5448-4194-ba99-7e2c73e21b95.png)
