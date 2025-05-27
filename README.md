@@ -16,7 +16,7 @@
             <td align="center"><strong>Frontend</strong></td>
         </tr>
         <tr>
-            <td>&ensp;&ensp;<img src="https://skillicons.dev/icons?i=python,ts,postgres,go">&ensp;&ensp;</td>
+            <td>&ensp;&ensp;<img src="https://skillicons.dev/icons?i=python,ts,go">&ensp;&ensp;</td>
             <td>&ensp;&ensp;<img src="https://skillicons.dev/icons?i=django,docker,nginx,redis,postgres">&ensp;&ensp;</td>
             <td>&ensp;&ensp;<img src="https://skillicons.dev/icons?i=react,redux,html,css,bootstrap">&ensp;&ensp;</td>
         </tr>
