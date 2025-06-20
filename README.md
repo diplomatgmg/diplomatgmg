@@ -1,4 +1,7 @@
 <div align="center">
+    <h1>
+        <a href="https://diplomatgmg.tech/cv">CV</a>
+    </h1>
     <h1>Welcome 👋, I'm Kirill Popov</h1>
     <h2>
         Back-end developer, 21 y.o
