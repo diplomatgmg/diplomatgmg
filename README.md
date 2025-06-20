@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Welcome 👋, I'm Kirill Popov</h1>
     <h2>
-        Fullstack developer, 21 y.o
+        Back-end developer, 21 y.o
     </h2>
 
 </div>
